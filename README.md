@@ -23,5 +23,12 @@ A simple Snake Game implemented in Python using the `tkinter` library. Control t
 1. Ensure you have Python installed on your system (Python 3.6+ recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/SherwinjClitus/snake-game.git
    cd snake-game
+### How to Run
+
+Copy and paste the following command to run the Snake Game:
+
+```bash
+python snake.py
+
